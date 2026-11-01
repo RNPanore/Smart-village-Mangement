@@ -1,0 +1,10 @@
+# Private and runtime-generated files
+backend/village.db
+backend/uploads/
+backend/.secret_key
+backend/__pycache__/
+backend/venv/
+*.pyc
+
+# Local environment files
+.env

@@ -1,0 +1,50 @@
+/* English / Marathi. English text is the key; missing Marathi falls back to English. */
+const MR = {
+  "Home": "मुख्यपृष्ठ", "About": "आमच्याबद्दल", "Features": "वैशिष्ट्ये", "How it works": "हे कसे चालते",
+  "Contact": "संपर्क", "Track complaint": "तक्रार तपासा", "Login": "लॉगिन", "Register": "नोंदणी",
+  "Logout": "बाहेर पडा", "Dashboard": "डॅशबोर्ड", "Complaints": "तक्रारी", "My complaints": "माझ्या तक्रारी",
+  "Raise a complaint": "तक्रार नोंदवा", "Notices": "सूचना", "Schemes": "योजना", "Bills & Tax": "बिले व कर",
+  "Events": "कार्यक्रम", "Projects": "विकास कामे", "Citizens": "नागरिक", "Staff": "कर्मचारी",
+  "Departments": "विभाग", "Categories": "प्रकार", "Reports": "अहवाल", "Audit log": "ऑडिट नोंदी",
+  "Messages": "संदेश", "Profile": "प्रोफाइल", "Overview": "आढावा", "Services": "सेवा", "Administration": "प्रशासन",
+  "Username": "वापरकर्तानाव", "Password": "पासवर्ड", "Full name": "पूर्ण नाव", "Phone": "फोन", "Ward": "वॉर्ड",
+  "Address": "पत्ता", "Family members": "कुटुंबातील सदस्य", "Create account": "खाते तयार करा",
+  "Save": "जतन करा", "Cancel": "रद्द करा", "Delete": "हटवा", "Edit": "बदला", "Add": "जोडा", "View": "पहा",
+  "Close": "बंद करा", "Search": "शोधा", "Status": "स्थिती", "Priority": "प्राधान्य", "Category": "प्रकार",
+  "Title": "शीर्षक", "Description": "वर्णन", "Location": "ठिकाण", "Department": "विभाग", "Assigned to": "नेमलेले",
+  "Submitted": "नोंदवले", "Reference": "संदर्भ क्रमांक", "Date": "तारीख", "Amount": "रक्कम", "Due date": "देय तारीख",
+  "Pay now": "आता भरा", "Paid": "भरले", "Unpaid": "बाकी", "Apply": "अर्ज करा", "Applied": "अर्ज केला",
+  "Approved": "मंजूर", "Rejected": "नाकारले", "Pending": "प्रलंबित", "Register for event": "नोंदणी करा",
+  "Welcome": "स्वागत आहे", "Village Administrator": "ग्राम प्रशासक", "Citizen": "नागरिक",
+  "Field worker": "क्षेत्र कर्मचारी", "Department head": "विभाग प्रमुख", "Supervisor": "पर्यवेक्षक",
+  "Smart Village Management System": "स्मार्ट व्हिलेज व्यवस्थापन प्रणाली",
+  "Open complaints": "प्रलंबित तक्रारी", "Resolved": "सोडवलेल्या", "Overdue": "मुदत संपलेल्या",
+  "Total complaints": "एकूण तक्रारी", "Population": "लोकसंख्या", "Collected": "जमा रक्कम", "Pending dues": "थकबाकी",
+  "Upcoming events": "आगामी कार्यक्रम", "Latest notices": "ताज्या सूचना", "Complaints by status": "स्थितीनुसार तक्रारी",
+  "Complaints by department": "विभागानुसार तक्रारी", "Track your complaint": "तुमची तक्रार तपासा",
+  "Enter reference code": "संदर्भ क्रमांक टाका", "Track": "तपासा", "Timeline": "प्रगती",
+  "Send message": "संदेश पाठवा", "Your name": "तुमचे नाव", "Message": "संदेश", "Phone or email": "फोन किंवा ईमेल",
+  "Assign": "नेमा", "Change status": "स्थिती बदला", "Add note": "टिप्पणी जोडा", "Note": "टिप्पणी",
+  "Attach photos (optional)": "फोटो जोडा (ऐच्छिक)", "Submit complaint": "तक्रार सादर करा",
+  "Rate this resolution": "निराकरणाला गुण द्या", "Reopen": "पुन्हा उघडा", "Low": "कमी", "Normal": "सामान्य",
+  "High": "जास्त", "Urgent": "तातडीचे", "All": "सर्व", "Open": "खुल्या", "Dark mode": "गडद मोड",
+  "Change password": "पासवर्ड बदला", "Current password": "सध्याचा पासवर्ड", "New password": "नवीन पासवर्ड",
+  "Welcome back": "पुन्हा स्वागत", "Budget": "अंदाजपत्रक", "Spent": "खर्च", "Progress": "प्रगती",
+  "Eligibility": "पात्रता", "Benefit": "लाभ", "Last date": "शेवटची तारीख", "Venue": "ठिकाण",
+  "Download CSV": "CSV डाउनलोड", "No records yet.": "अजून नोंदी नाहीत.", "Loading...": "लोड होत आहे...",
+  "Applications": "अर्ज", "SUBMITTED": "नोंदवले", "UNDER_REVIEW": "तपासणीत", "ASSIGNED": "नेमले",
+  "IN_PROGRESS": "काम सुरू", "WAITING_FOR_INFORMATION": "माहितीची प्रतीक्षा", "RESOLVED": "सोडवले",
+  "REOPENED": "पुन्हा उघडले", "REFERRED_OUT": "इतरत्र पाठवले", "REJECTED": "नाकारले", "DUPLICATE": "दुबार",
+  "LOW": "कमी", "NORMAL": "सामान्य", "HIGH": "जास्त", "URGENT": "तातडीचे",
+  "Gram Panchayat services, in one place.": "ग्रामपंचायतीच्या सर्व सेवा, एकाच ठिकाणी.",
+  "Raise issues, follow their progress, pay village dues and stay informed about everything happening in your village.":
+    "समस्या नोंदवा, त्यांची प्रगती पहा, गावातील देणी भरा आणि गावातील घडामोडींची माहिती मिळवा.",
+  "Get started": "सुरू करा", "Demo accounts": "डेमो खाती",
+};
+
+const I18N = {
+  lang: (() => { try { return localStorage.getItem("sv-lang") || "en"; } catch (e) { return "en"; } })(),
+  set(l) { this.lang = l; try { localStorage.setItem("sv-lang", l); } catch (e) { /* ignore */ } document.documentElement.lang = l; },
+};
+function t(s) { return I18N.lang === "mr" && MR[s] ? MR[s] : s; }
+document.documentElement.lang = I18N.lang;
