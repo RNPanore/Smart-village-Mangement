@@ -1,5 +1,0 @@
-__pycache__/
-*.pyc
-backend/village.db
-backend/uploads/
-backend/.secret_key
